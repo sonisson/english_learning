@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(240, 240, 240);
+}
+
+.header {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    min-width: 1000px;
+    height: 70px;
+    background-color: rgb(40, 40, 40);
+}
+
+.header .logo {
+    height: 100%;
+}
+
+.header .avatar {
+    height: 80%;
+    position: absolute;
+    border-radius: 50%;
+    top: 50%;
+    right: 0%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.header .menu {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.menu span {
+    font-size: 20px;
+    color: rgb(240, 240, 240);
+    padding: 20px;
+    cursor: pointer;
+    font-weight: 550;
+}
+
+.menu span:hover {
+    background-color: rgb(60, 60, 60);
+}
+
+.menu i {
+    margin-left: 10px;
+}
+
+#course-container {
+    margin-top: 100px;
+    text-align: center;
+}
+
+#course-container>div {
+    text-align: left;
+    display: inline-block;
+    width: 300px;
+    border: 1px solid rgb(40, 40, 40);
+    margin: 20px;
+    border-radius: 5px;
+    padding: 15px;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px rgb(150, 150, 150);
+}
+
+#course-container>div:hover {
+    background-color: rgb(220, 220, 220);
+}
+
+#course-container img {
+    width: 100%;
+    aspect-ratio: 3/2;
+    border-radius: 5px;
+}
+
+#course-container .course-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#course-container .course-description {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
