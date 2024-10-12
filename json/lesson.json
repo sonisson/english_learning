@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "course_id": 1,
+        "title": "Pokémon XYZ",
+        "description": "Follow Ash, Pikachu, and their friends as they explore the deepest mysteries of the Kalos region!"
+    },
+    {
+        "id": 2,
+        "course_id": 1,
+        "title": "Pokémon Journeys: The Series",
+        "description": "Ash tries to capture Mew and all the Pokémon with his Pikachu."
+    },
+    {
+        "id": 3,
+        "course_id": 1,
+        "title": "Pokémon Diamond and Pearl",
+        "description": "Ash Ketchum and Pikachu, and his best friend Brock, the two meet a new Pokémon Coordinator named Dawn."
+    },
+    {
+        "id": 4,
+        "course_id": 2,
+        "title": "Kungfu Panda (2008)",
+        "description": "Po, an overweight, clumsy panda, is chosen as protector of the Valley of Peace."
+    },
+    {
+        "id": 5,
+        "course_id": 2,
+        "title": "Kungfu Panda 2 (2011)",
+        "description": "Po and his friends fight to stop a peacock villain from conquering China."
+    },
+    {
+        "id": 6,
+        "course_id": 2,
+        "title": "Kungfu Panda 3 (2016)",
+        "description": "Po must face two hugely epic, but different threats: one supernatural and the other a little closer to home."
+    },
+    {
+        "id": 7,
+        "course_id": 3,
+        "title": "Doraemon: Nobita's New Dinosaur",
+        "description": "When Nobita finds dinosaur eggs, he revives them, unleashing Kyu and Myu."
+    },
+    {
+        "id": 8,
+        "course_id": 3,
+        "title": "Doraemon: Nobita's Sky Utopia",
+        "description": "Doraemon, Nobita and his friends go to find Utopia, a perfect land in the sky."
+    },
+    {
+        "id": 9,
+        "course_id": 3,
+        "title": "Doraemon: Nobita's Earth Symphony",
+        "description": "Doraemon and friends go on an adventure to meet new buddies."
+    },
+    {
+        "id": 10,
+        "course_id": 4,
+        "title": "Detective Conan: The Scarlet Bullet",
+        "description": "Japan is celebrating the upcoming World Sports Games in Tokyo."
+    },
+    {
+        "id": 11,
+        "course_id": 4,
+        "title": "Detective Conan: The Bride of Halloween",
+        "description": "During the wedding of Takagi and Sato, an assailant breaks and tries to attack Sato."
+    },
+    {
+        "id": 12,
+        "course_id": 4,
+        "title": "Detective Conan: The Million-Dollar Pentagram",
+        "description": "The truth hidden in the sword cuts through the dark night and leads us under the moon."
+    },
+    {
+        "id": 13,
+        "course_id": 5,
+        "title": "Howl's Moving Castle",
+        "description": "Sophie, a young milliner who is turned into an elderly woman."
+    },
+    {
+        "id": 14,
+        "course_id": 5,
+        "title": "My Neighbor Totoro",
+        "description": "Two girls have adventures with the wondrous forest spirits who live nearby."
+    },
+    {
+        "id": 15,
+        "course_id": 5,
+        "title": "Sprited Away",
+        "description": "A sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits."
+    },
+    {
+        "id": 16,
+        "course_id": 5,
+        "title": "The Boy and the Heron",
+        "description": "A headstrong boy named Mahito ventures into a dreamlike world shared by both the living and the dead."
+    },
+    {
+        "id": 17,
+        "course_id": 2,
+        "title": "Kungfu Panda 4 (2024)",
+        "description": "After Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior."
+    }
+]
