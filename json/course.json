@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Pokémon",
+        "description": "Covering the continuing adventures of series protagonist Ash Ketchum and Pikachu, and his best friend Brock, the two meet a new coordinator named Dawn.",
+        "img_url": "https://i.pinimg.com/564x/fe/ce/80/fece8053ed2c83b8abc059ec15d8eacc.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Kungfu Panda",
+        "description": "A bumbling giant panda named Po, a kung-fu enthusiast living in the Valley of Peace.",
+        "img_url": "https://i.pinimg.com/564x/80/cc/f3/80ccf3116ce35f70a45493e1a898ef9b.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Doraemon",
+        "description": "The story revolves around an earless robotic cat named Doraemon, who travels back in time from the 22nd century to aid a boy named Nobita Nobi.",
+        "img_url": "https://i.pinimg.com/564x/b8/b7/89/b8b789053d65cd7e3789fd426d392121.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Detective Conan",
+        "description": "The cases of a detective whose physical age was chemically reversed to that of a prepubescent boy but must hide his true mental development.",
+        "img_url": "https://i.pinimg.com/564x/2e/ff/80/2eff803388093a65045277202d92d53f.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Studio Ghibli Movies",
+        "description": "Ghibli has a strong presence in the animation industry and has expanded its portfolio to include various media formats.",
+        "img_url": "https://hamyphanblog.wordpress.com/wp-content/uploads/2016/06/0-6g9_ztuzoq191moj.jpg"
+    },
+    {
+        "id": 6,
+        "title": "How to Train Your Dragon",
+        "description": "Uploading...",
+        "img_url": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/63e0oJEtUVGApjcKbD9Y1mGKJZDguW.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Penguins of Madagascar",
+        "description": "Uploading...",
+        "img_url": "https://resizing.flixster.com/H_UR0D9yDu0SMjhR2PT1SP4cgow=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p195303_b_h8_ar.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Minions",
+        "description": "Uploading...",
+        "img_url": "https://play-lh.googleusercontent.com/proxy/2tj1HTTkxfLUCHMYCMY7Ik_u9Dv-ctrQ7tteluo8MkL9bUzSFutbEcvkGroJxU6PTS84IHjfzCYjRsCflXcZ5k_CV2OAD2Al4i_fUCrb6cBVNvtB4TZhu97Z=s3840-w3840-h2160"
+    },
+    {
+        "id": 9,
+        "title": "The Lion King",
+        "description": "Uploading...",
+        "img_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6E3379DBFDA41CF305BFD7FE6D14FDB5F901F0CDC9B27C66D7E6FBEA2864B4F2/scale"
+    },
+    {
+        "id": 10,
+        "title": "Alice in Wonderland",
+        "description": "Uploading...",
+        "img_url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D2AF0F20D40CAAA249BEF5BDFF63C1BF3F6BDB67C74092DB843AEAEB423F79D2/scale"
+    },
+    {
+        "id": 11,
+        "title": "Frozen",
+        "description": "Uploading...",
+        "img_url": "https://imagev3.vietnamplus.vn/w1000/Uploaded/2024/pcfo/2014_04_01/0104_frozen_disney_2.jpg.webp"
+    },
+    {
+        "id": 12,
+        "title": "Totally Spies!",
+        "description": "Uploading...",
+        "img_url": "https://variety.com/wp-content/uploads/2024/06/Totally-Spies-1.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Tom and Jerry",
+        "description": "Uploading...",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6duQaLSr4gewnnNoExQmwnKKSt2S4rdmlcw&s"
+    },
+    {
+        "id": 14,
+        "title": "Ben 10",
+        "description": "Uploading...",
+        "img_url": "https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/04/29/nm3o9rr1_1920x1080-ben10s4_1920_1080.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Crayon Shin-chan",
+        "description": "Uploading...",
+        "img_url": "https://nijigennomori-s3-loadbalancer.s3.ap-northeast-1.amazonaws.com/wp-content/uploads/2023/10/top_v3-722x480.jpg"
+    }
+]
