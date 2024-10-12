@@ -1,0 +1,203 @@
+body {
+    font-family: sans-serif;
+    position: relative;
+    height: 100vh;
+    background-color: rgb(40, 40, 40);
+    color: rgb(240, 240, 240);
+}
+
+.header {
+    background-color: rgb(40, 40, 40);
+    min-width: 1000px;
+    z-index: 1;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    height: 70px;
+    border-bottom: .5px solid rgb(220, 220, 220);
+}
+
+.header .logo {
+    height: 100%;
+}
+
+.header .avatar {
+    height: 80%;
+    position: absolute;
+    border-radius: 50%;
+    top: 50%;
+    right: 0%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+.header .menu {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.menu span {
+    font-size: 20px;
+    padding: 20px;
+    cursor: pointer;
+    font-weight: 550;
+}
+
+.menu span:hover {
+    background-color: rgb(60, 60, 60);
+}
+
+.menu i {
+    margin-left: 10px;
+}
+
+#lesson-container {
+    position: absolute;
+    top: 70px;
+    height: 85%;
+    width: 30%;
+    overflow: auto;
+    border-right: .5px solid rgb(240, 240, 240);
+
+}
+
+.lesson-block {
+    border-bottom: .5px solid rgb(220, 220, 220);
+}
+
+.lesson-title {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.lesson-title:hover {
+    background-color: rgb(60, 60, 60);
+}
+
+.lesson-description {
+    display: none;
+    animation: fadeIn .5s ease-in;
+    padding: 20px;
+}
+
+[id^="video-list"] {
+    display: none;
+    animation: fadeIn .5s ease-in;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.video-title {
+    cursor: pointer;
+    padding: 15px 20px;
+}
+
+.video-title:hover {
+    font-size: 20px;
+    transition: .5s;
+}
+
+.video-title i {
+    margin-right: 10px;
+}
+
+#show-title,
+#show-duration {
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    top: 13%;
+}
+
+#show-title {
+    left: 35%;
+}
+
+#show-duration {
+    right: 5%;
+}
+
+#show-video {
+    position: absolute;
+    width: 60%;
+    top: 20%;
+    left: 35%;
+    bottom: 20%;
+    text-align: center;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border: .5px solid rgb(240, 240, 240);
+}
+
+#show-video img {
+    height: 100%;
+    aspect-ratio: 3/2;
+}
+
+#show-description {
+    position: absolute;
+    left: 35%;
+    top: 85%;
+    right: 5%;
+}
+
+#complete {
+    position: absolute;
+    left: 35%;
+    top: 83%;
+    color: rgb(240, 240, 240);
+    background-color: rgb(23, 166, 109);
+    border: 0px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+}
+
+#complete:hover {
+    background-color: rgb(32, 199, 135);
+}
+
+#complete i {
+    margin-left: 10px;
+}
+
+#next-video,
+#previous-video {
+    background-color: rgb(100, 100, 100);
+    color: rgb(240, 240, 240);
+    border-radius: 5px;
+    border: 0px;
+    position: absolute;
+    top: 83%;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    width: 50px;
+    display: none;
+}
+
+#next-video:hover {
+    background-color: rgb(80, 80, 80)
+}
+
+#previous-video:hover {
+    background-color: rgb(80, 80, 80)
+}
+
+#next-video {
+    right: 5%;
+}
+
+#previous-video {
+    right: 130px;
+}
